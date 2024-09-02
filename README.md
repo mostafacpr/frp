@@ -35,6 +35,9 @@
 [Frp bypass](https://drive.google.com/file/d/1CXP7qMuVhjioJd3Aywx0n79Akz7p8hko/view?usp=sharing)
 
 [Appex luncher](https://drive.google.com/file/d/1vx-HKX4tqWERTfOZ3kTZLHByJb5YpOBl/view?usp=sharing)
+
+[Frp ADDrom](https://drive.google.com/file/d/17oMa-xyHOm4NpOO7uSxsZHoZcEacCYpp/view?usp=sharing)
+
 ---
 
 [GAM 5](https://drive.google.com/file/d/1IQWBtLt5iR09-u-NZt2yFb0fVlgqdE6B/view?usp=sharing)
