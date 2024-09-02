@@ -15,6 +15,8 @@
 
 [open Youtube](intent://com.google.android.youtube/#Intent;scheme=android-app;end)
 
+---apk---
+
 [GSMArmani](https://drive.google.com/file/d/1-SE_HMZlOX7rj0DSgmzZmpoP35IN2vds/view?usp=sharing)
 
 [FRPtool 8.1](https://drive.google.com/file/d/15Xe_VenJzbZQHxkVhIUBzZofA5t6yvi2/view?usp=sharing)
@@ -23,7 +25,10 @@
 
 [shortcut google signin](https://drive.google.com/file/d/12SoUn2vU5lxDn28u9QHXidBxa9hcLezK/view?usp=sharing)
 
+[Frp bypass](https://drive.google.com/file/d/1CXP7qMuVhjioJd3Aywx0n79Akz7p8hko/view?usp=sharing)
 
+
+---
 
 [GAM 5](https://drive.google.com/file/d/1IQWBtLt5iR09-u-NZt2yFb0fVlgqdE6B/view?usp=sharing)
 
@@ -33,4 +38,3 @@
 
 [google setting](https://drive.google.com/file/d/1_SuLb6JMJD4U-y3kr4GRgImbUciHcoQf/view?usp=sharing)
 
-[Frp bypass](https://drive.google.com/file/d/1CXP7qMuVhjioJd3Aywx0n79Akz7p8hko/view?usp=sharing)
