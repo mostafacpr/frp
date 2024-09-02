@@ -10,6 +10,7 @@ bypass frp mobile phone
 [open google search](intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end)
 
 [open galaxy store](intent://com.dv.adm/#Intent;scheme=android-app;end)
+
 [GSMArmani](https://drive.google.com/file/d/1-SE_HMZlOX7rj0DSgmzZmpoP35IN2vds/view?usp=sharing)
 
 [FRPtool 8.1](https://drive.google.com/file/d/15Xe_VenJzbZQHxkVhIUBzZofA5t6yvi2/view?usp=sharing)
