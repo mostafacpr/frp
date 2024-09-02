@@ -1,5 +1,7 @@
 # frp
-bypass frp mobile phone
+### bypass frp mobile phone
+
+---
 
 [Open lockscreen](intent://com.google.android.gms/#Intent;scheme=promote_smartlock_scheme;end)
 
@@ -10,6 +12,8 @@ bypass frp mobile phone
 [open google search](intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end)
 
 [open galaxy store](intent://com.dv.adm/#Intent;scheme=android-app;end)
+
+[open Youtube](intent://com.google.android.youtube/#Intent;scheme=android-app;end)
 
 [GSMArmani](https://drive.google.com/file/d/1-SE_HMZlOX7rj0DSgmzZmpoP35IN2vds/view?usp=sharing)
 
